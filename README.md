@@ -1,39 +1,32 @@
-Image Steganography Project in C
+# Steganography Project in C
 
-A console-based Steganography application developed using C programming language to hide and extract secret messages inside image files securely.
+A console-based Steganography application developed using C programming language to hide and extract secret data inside image files.
 
+## Features
 
-Features 
+* Hide secret text in image files
+* Extract hidden data from images
+* Least Significant Bit (LSB) technique implementation
+* Image integrity preservation after encoding
+* Basic data security demonstration
 
-Encode Secret Message into Image
+## Technologies Used
 
-Decode Hidden Message from Image
+* C Language
+* File Handling
+* Bitwise Operations
+* Image Processing (Basic LSB Technique)
+* Structures
 
-Password Protection Support
+## How to Run
 
-BMP Image File Handling
+1. Compile:
+   gcc *.c
+2. Run:
+   ./a.out
 
-Secure Data Hiding using LSB Technique
+## Author
 
-##Technologies Used
+Y.Rajesh
 
-C Language
-
-File Handling
-
-Bit Manipulation
-
-Structures
-
-Modular Programming (Header Files)
-
-##How to Run
-
-Compile: gcc *.c
-
-##Run: 
-
-./a.out
-
-Author - Y.Rajesh
 
