@@ -1,9 +1,9 @@
-#Image Steganography Project in C
+Image Steganography Project in C
 
 A console-based Steganography application developed using C programming language to hide and extract secret messages inside image files securely.
 
 
-##Features 
+Features 
 
 Encode Secret Message into Image
 
